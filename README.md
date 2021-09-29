@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a tools of the trade such as Burp, Amass, Gobuster etc
 - 💞️ I’m looking to collaborate on bounty programs/CTFs
 - 📫 How to reach me - http://twitter.com/Mistmaster4
+- I also have my University programming stuff here!
 
 <!---
 Cabba4/Cabba4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
