@@ -1,3 +1,6 @@
+
+[![Cabba's stats for nerds](https://github-readme-stats.vercel.app/api?username=cabba4)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Cabba4
 - 👀 I’m interested in Ethical Hacking and Bug hunting
 - 🌱 I’m currently learning a tools of the trade such as Burp, Amass, Gobuster etc
