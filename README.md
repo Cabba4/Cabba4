@@ -1,9 +1,9 @@
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=cabba4&show_icons=true&theme=radical" alt="Cabba's github stats for nerds" />
 
-![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?cabba4)
-
 ![Cabba's github activity graph](https://activity-graph.herokuapp.com/graph?username=cabba4&theme=react-dark)
+
+[Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?cabba4)
 
 - 👋 Hi, I’m @Cabba4
 - 👀 I’m a Software Engineering student with interest in cybersecurity
