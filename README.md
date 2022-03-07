@@ -4,9 +4,9 @@
 ![Cabba's github activity graph](https://activity-graph.herokuapp.com/graph?username=cabba4&theme=react-dark)
 
 - 👋 Hi, I’m @Cabba4
-- 👀 I’m interested in Ethical Hacking and Bug hunting
-- 🌱 I’m currently learning a tools of the trade such as Burp, Amass, Gobuster etc
-- 💞️ I’m looking to collaborate on bounty programs/CTFs
+- 👀 I’m a Software Engineering student with interest in cybersecurity
+- 🌱 I’m currently learning web-android dev and bug hunting  
+- 💞️ I’d like to collaborate on bounty programs/CTFs
 - 📫 How to reach me - http://twitter.com/Mistmaster4
 - I also have my University programming stuff here!
 
