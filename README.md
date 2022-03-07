@@ -1,6 +1,8 @@
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=cabba4&show_icons=true&theme=radical" alt="Cabba's github stats for nerds" />
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?cabba4" frameborder="0"></iframe>
+
 ![Cabba's github activity graph](https://activity-graph.herokuapp.com/graph?username=cabba4&theme=react-dark)
 
 - 👋 Hi, I’m @Cabba4
