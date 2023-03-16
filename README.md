@@ -3,7 +3,7 @@
 
 [Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?cabba4)
 
-- 👋 Hi, I’m @Cabba4
+- 👋 Hi, I’m @Cabba4 
 - 👀 I’m a Software Engineering student with interest in cybersecurity
 - 🌱 I’m currently learning mobile app development, software architecture patterns and SOC tier 1 skills
 - 💞️ I’d like to collaborate on bounty programs/CTFs.
